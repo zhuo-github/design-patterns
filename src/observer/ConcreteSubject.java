@@ -1,5 +1,8 @@
 package observer;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class ConcreteSubject extends Subject {
     @Override
     public void execute() {

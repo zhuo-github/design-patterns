@@ -1,5 +1,7 @@
 package observer;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         //注册观察者
